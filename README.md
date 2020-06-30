@@ -1,7 +1,3 @@
-# config-vs-code
-# config-vs-code
-# config-vs-code
-# config-vs-code
-# config-vs-code
-# config-vs-code
-# config-vs-code
+# Config-vs-code
+
+## Extensions
