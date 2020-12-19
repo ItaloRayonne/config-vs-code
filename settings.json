@@ -1,0 +1,53 @@
+{
+    // Editor
+    "explorer.compactFolders": false,
+    "editor.fontFamily": "'Fira Code'",
+    "editor.fontLigatures": true,
+    "powermode.enabled": true,
+    "powermode.presets": "flames",
+    "powermode.explosionDuration": 2000,
+  
+    "workbench.iconTheme": "material-icon-theme",
+    "material-icon-theme.folders.associations": {
+      "firebase": "firebase"
+    },
+  
+    // Actions On Save
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true,
+      "source.fixAll.tslint": true,
+      "source.fixAll.stylelint": true
+    },
+    // Actions On Save
+    "[javascript]": {
+      "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+      },
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+  
+    "files.associations": {
+      ".sequelizerc": "javascript",
+      ".stylelintrc": "json",
+      ".prettierrc": "json"
+    },
+    // Emmets
+    "emmet.syntaxProfiles": {
+      "javascript": "jsx"
+    },
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+    },
+    "workbench.colorTheme": "Omni",
+    "workbench.startupEditor": "none",
+    "window.menuBarVisibility": "toggle",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "explorer.confirmDelete": false,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "window.zoomLevel": -1,
+    "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+  }
+  
